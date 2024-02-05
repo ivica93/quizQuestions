@@ -1,82 +1,83 @@
 [
   {
     "id": 1,
-    "text": "What is the capital of France?",
-    "options": ["London", "Berlin", "Madrid", "Paris"],
-    "correct_answer": "Paris",
+    "text": "What is the capital of Japan?",
+    "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+    "correctAnswer": "Tokyo",
     "points": 10,
     "category": "Geography"
   },
   {
     "id": 2,
-    "text": "Which planet is known as the Red Planet?",
-    "options": ["Earth", "Mars", "Venus", "Jupiter"],
-    "correct_answer": "Mars",
-    "points": 10,
-    "category": "Astronomy"
+    "text": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Silver", "Iron"],
+    "correctAnswer": "Oxygen",
+    "points": 8,
+    "category": "Science"
   },
   {
     "id": 3,
-    "text": "What is the largest mammal on Earth?",
-    "options": ["Elephant", "Blue Whale", "Giraffe", "Lion"],
-    "correct_answer": "Blue Whale",
-    "points": 10,
-    "category": "Biology"
+    "text": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "correctAnswer": "Leonardo da Vinci",
+    "points": 12,
+    "category": "Art"
   },
   {
     "id": 4,
-    "text": "Who wrote the play 'Romeo and Juliet'?",
-    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
-    "correct_answer": "William Shakespeare",
-    "points": 10,
-    "category": "Literature"
+    "text": "In what year did Christopher Columbus reach the Americas?",
+    "options": ["1492", "1505", "1510", "1522"],
+    "correctAnswer": "1492",
+    "points": 15,
+    "category": "History"
   },
   {
     "id": 5,
-    "text": "Which gas do plants absorb from the atmosphere?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
-    "correct_answer": "Carbon Dioxide",
+    "text": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale",
     "points": 10,
     "category": "Biology"
   },
   {
     "id": 6,
-    "text": "What is the currency of Japan?",
-    "options": ["Yen", "Dollar", "Euro", "Pound"],
-    "correct_answer": "Yen",
+    "text": "Which programming language is often used for web development?",
+    "options": ["Java", "Python", "JavaScript", "C++"],
+    "correctAnswer": "JavaScript",
     "points": 10,
-    "category": "Geography"
+    "category": "Technology"
   },
   {
     "id": 7,
-    "text": "What is the largest organ in the human body?",
-    "options": ["Heart", "Brain", "Skin", "Liver"],
-    "correct_answer": "Skin",
-    "points": 10,
-    "category": "Biology"
+    "text": "Who wrote '1984'?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "F. Scott Fitzgerald"],
+    "correctAnswer": "George Orwell",
+    "points": 12,
+    "category": "Literature"
   },
   {
     "id": 8,
-    "text": "Which famous scientist developed the theory of relativity?",
-    "options": ["Isaac Newton", "Marie Curie", "Albert Einstein", "Galileo Galilei"],
-    "correct_answer": "Albert Einstein",
-    "points": 10,
-    "category": "Science"
+    "text": "What is the currency of Australia?",
+    "options": ["Dollar", "Euro", "Yen", "Pound"],
+    "correctAnswer": "Dollar",
+    "points": 8,
+    "category": "Economics"
   },
   {
     "id": 9,
-    "text": "What is the chemical symbol for gold?",
-    "options": ["Au", "Ag", "Fe", "Hg"],
-    "correct_answer": "Au",
+    "text": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "correctAnswer": "Venus",
     "points": 10,
-    "category": "Chemistry"
+    "category": "Astronomy"
   },
   {
     "id": 10,
-    "text": "In which year did the Titanic sink?",
-    "options": ["1912", "1907", "1923", "1931"],
-    "correct_answer": "1912",
-    "points": 10,
-    "category": "History"
+    "text": "Who developed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Niels Bohr"],
+    "correctAnswer": "Albert Einstein",
+    "points": 15,
+    "category": "Physics"
   }
+  // Add more questions as needed
 ]
