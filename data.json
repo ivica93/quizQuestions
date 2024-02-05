@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "text": "What is the capital of Japan?",
+      "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+      "correctAnswer": "Tokyo",
+      "points": 10,
+      "category": "Geography"
+    },
+    {
+      "id": 2,
+      "text": "Which element has the chemical symbol 'O'?",
+      "options": ["Oxygen", "Gold", "Silver", "Iron"],
+      "correctAnswer": "Oxygen",
+      "points": 8,
+      "category": "Science"
+    },
+    {
+      "id": 3,
+      "text": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correctAnswer": "Leonardo da Vinci",
+      "points": 12,
+      "category": "Art"
+    },
+    {
+      "id": 4,
+      "text": "In what year did Christopher Columbus reach the Americas?",
+      "options": ["1492", "1505", "1510", "1522"],
+      "correctAnswer": "1492",
+      "points": 15,
+      "category": "History"
+    },
+    {
+      "id": 5,
+      "text": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correctAnswer": "Blue Whale",
+      "points": 10,
+      "category": "Biology"
+    },
+    {
+      "id": 6,
+      "text": "Which programming language is often used for web development?",
+      "options": ["Java", "Python", "JavaScript", "C++"],
+      "correctAnswer": "JavaScript",
+      "points": 10,
+      "category": "Technology"
+    },
+    {
+      "id": 7,
+      "text": "Who wrote '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "F. Scott Fitzgerald"],
+      "correctAnswer": "George Orwell",
+      "points": 12,
+      "category": "Literature"
+    },
+    {
+      "id": 8,
+      "text": "What is the currency of Australia?",
+      "options": ["Dollar", "Euro", "Yen", "Pound"],
+      "correctAnswer": "Dollar",
+      "points": 8,
+      "category": "Economics"
+    },
+    {
+      "id": 9,
+      "text": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correctAnswer": "Venus",
+      "points": 10,
+      "category": "Astronomy"
+    },
+    {
+      "id": 10,
+      "text": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Niels Bohr"],
+      "correctAnswer": "Albert Einstein",
+      "points": 15,
+      "category": "Physics"
+    }
+    // Add more questions as needed
+  ]
